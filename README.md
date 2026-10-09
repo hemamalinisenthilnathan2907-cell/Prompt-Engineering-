@@ -129,6 +129,3 @@ The application will open in your browser.
 
 Prompt Engineering Explorer provides a simple way to understand and experiment with different prompt engineering techniques. By combining Python, Streamlit, and an AI language model, the project demonstrates how well-structured prompts can guide AI-generated responses.
 
-## License
-
-This project is intended for educational and learning purposes.
